@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about lucas24417@gmail.com
 - 📫 How to reach me: lucas24417@gmail.com
 - ⚡ Fun fact: I'm a Purple Belt in Brazilian Jiu Jitsu and Spanish Philosophy Translator!
--->
+
