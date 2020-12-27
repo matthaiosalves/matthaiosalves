@@ -1,6 +1,6 @@
 ### Hi there, How are you? I'm Matheus :) 👋
 
-- 🔭 I’m currently working on C, C++ and C#
+- 🔭 I’m currently working on HTML, CSS, JS, C, C++ and C#
 - 🌱 I’m currently learning Ruby on Rails
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about lucas24417@gmail.com
