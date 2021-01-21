@@ -1,5 +1,3 @@
-### Hi there, How are you? I'm Matheus :) 👋
-
 <h1 align="center">Hi 👋, I'm Matheus Alves</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
