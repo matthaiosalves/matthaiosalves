@@ -1,11 +1,5 @@
 ### Hi there, How are you? I'm Matheus :) 👋
 
-- 🔭 I’m currently working on HTML, CSS, JS, C, C++ and C#
-- 🌱 I’m currently learning Ruby on Rails
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about lucas24417@gmail.com
-- 📫 How to reach me: lucas24417@gmail.com
-- ⚡ Fun fact: I'm a Purple Belt in Brazilian Jiu Jitsu and Spanish Philosophy Translator!
 <h1 align="center">Hi 👋, I'm Matheus Alves</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
