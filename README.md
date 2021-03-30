@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, C, C++ and C#**
 
-- 📫 How to reach me **lucas24417@gmail.com**
+- 📫 How to reach me **MatheusAlvesO@outlook.com**
 
 - ⚡ Fun fact **Purple Belt in Brazilian Jiu Jitsu and Spanish Philosophy Translator!**
 
