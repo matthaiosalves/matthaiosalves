@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HTML, CSS, JS, C, C++ and C#**
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [http://matthaiosalves.github.io/me/](http://matthaiosalves.github.io/me/)
 
