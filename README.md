@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Alves</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on **HTML, CSS, JS, C, C++, C#, Python, React.js, React Native and Electron**
-
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [http://matthaiosalves.github.io/me/](http://matthaiosalves.github.io/me/)
 
-- 💬 Ask me about **HTML, CSS, JS, C, C++, C#, Python, React.js, React Native and Electron**
+- 💬 Ask me about **HTML, CSS, JS, C, C++, C# and Python**
 
 - 📫 How to reach me **MatheusAlvesO@outlook.com**
 
