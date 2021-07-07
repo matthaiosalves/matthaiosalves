@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://matthaiosalves.github.io/me/](http://matthaiosalves.github.io/me/)
 
-- 💬 Ask me about **HTML, CSS, JS, C, C++, C# and Python**
+- 💬 Ask me about **HTML, CSS, JS, C, C++, C#, Python and PHP**
 
 - 📫 How to reach me **MatheusAlvesO@outlook.com**
 
