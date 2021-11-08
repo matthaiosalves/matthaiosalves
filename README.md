@@ -22,6 +22,6 @@
   
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/matthaiosalves" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1636340991~hmac=af40bbf78bf4b146e840b89ee1d7151c" alt="matthaiosalves" height="30" width="40" /></a>
+<a href="https://twitter.com/matthaiosalves" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1636340991~hmac=af40bbf78bf4b146e840b89ee1d7151c" alt="matthaiosalves" height="100" width="100" /></a>
 <a href="https://instagram.com/matthaiosalves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matthaiosalves" height="30" width="40" /></a>
 </p>
