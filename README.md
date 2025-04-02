@@ -1,8 +1,10 @@
 # 👋 Olá, Eu sou o Matheus Alves!
 
-## 🚀 Engenheiro de Software 
+## 🚀 Engenheiro de Software | Entusiasta de LLM
 
-Engenheiro entusiasta de novas tecnologias, com foco em arquitetura de software, inteligência artificial e boas práticas de desenvolvimento.
+Sou um desenvolvedor entusiasta de novas tecnologias, com foco em arquitetura de software, inteligência artificial e boas práticas de desenvolvimento. Busco constantemente criar soluções eficientes, escaláveis e inovadoras, sempre aprendendo e evoluindo.
+
+---
 
 ### 📌 Tecnologias
 
@@ -33,9 +35,16 @@ Engenheiro entusiasta de novas tecnologias, com foco em arquitetura de software,
   <img align="center" alt="Matt-GitHubActions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
+---
+
+### 📊 Estatísticas do GitHub
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusalveso&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalveso&layout=compact&theme=dark)
+
+---
 
 ### 📬 Entre em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalveso/)  
-
-💡 Sempre aberto a novas oportunidades e desafios! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalveso/)
