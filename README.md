@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou o Matheus Alves!
 
-## 🚀 Engenheiro de Software | Entusiasta de LLM
+## 🚀 Engenheiro de Software
 
 Sou um engenheiro entusiasta de novas tecnologias, com foco em arquitetura de software, inteligência artificial e boas práticas de desenvolvimento.
 ### 📌 Tecnologias
